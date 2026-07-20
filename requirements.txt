@@ -1,0 +1,8 @@
+# Phase 1 - the mission simulator - runs on the Python standard library only.
+# There is nothing to install to run `scripts/demo_sim.py` or the test suite
+# (`python -m unittest discover -s tests -t .`).
+#
+# Optional developer tooling:
+#   pytest      # nicer test runner; the suite also runs under stdlib unittest
+#
+# Later phases will add real dependencies here (vision, serial, etc.).
